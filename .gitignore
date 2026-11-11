@@ -1,0 +1,21 @@
+
+# Visual Studio
+.vs/
+**/.vs/
+*.vsidx
+
+# .NET
+**/bin/
+**/obj/
+*.user
+*.suo
+
+# Credenciales
+local.settings.json
+**/local.settings.json
+local.settings.js
+**/local.settings.js
+.env
+**/.env
+appsettings.Development.json
+**/appsettings.Development.json
